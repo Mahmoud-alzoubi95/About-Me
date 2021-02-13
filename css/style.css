@@ -1,6 +1,9 @@
 
 
-body {
+
+
+
+ body {
 
     background-color: rgb(6, 6, 49);
 }
@@ -35,4 +38,4 @@ font-size: larger;
 ul {
 color: azure;
 
-}
+} 
