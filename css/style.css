@@ -21,7 +21,7 @@ font-size: larger;
     font-size: larger;
 
     background-color: rgb(0, 151, 81);
-    color: rgb(2, 1, 46);
+    color: rgb(3, 2, 92);
     font-style: oblique;
 
 }
@@ -29,13 +29,13 @@ font-size: larger;
     float:center ;
     font-size: larger;
 
-    background-color: rgb(0, 117, 117);
-    color: rgb(2, 1, 46);
+    background-color: rgb(0, 97, 97);
+    color: rgb(3, 1, 153);
     font-style: oblique;
 
 }
 
 ul {
-color: azure;
+color: rgb(0, 223, 223);
 
 } 
